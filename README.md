@@ -1,4 +1,4 @@
-# CLONE-YOUTUBE 
+# Clone-Youtube 
 
 This project is a YouTube clone. Users can filter videos by categories. They can click on the video they want to watch, view video details, and check out recommended videos.
 
